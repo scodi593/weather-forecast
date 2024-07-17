@@ -30,4 +30,3 @@ Explore the world of weather with our intuitive and informative weather forecast
 
 ---
 
-Feel free to adjust and expand on this description based on specific functionalities and design elements of your project!
