@@ -20,7 +20,7 @@ The weather forecast web application provides real-time weather information for 
 
 **Project Goals:**
 
-Our goal is to deliver a responsive and efficient weather forecast application that meets the needs of users seeking up-to-date weather information. By integrating advanced web technologies and leveraging external APIs, we ensure the accuracy and usability of our weather forecast service.
+Goal is to deliver a responsive and efficient weather forecast application that meets the needs of users seeking up-to-date weather information. By integrating advanced web technologies and leveraging external APIs, we ensure the accuracy and usability of our weather forecast service.
 
 **Future Enhancements:**
 
